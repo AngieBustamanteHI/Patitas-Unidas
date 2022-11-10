@@ -221,7 +221,23 @@ footer{
     }
 
     .showcase a{
-        margin-top: 160px;
+        padding: 0px;
+        margin: 88px;
+        align-items: start;
+        height: 30px;
+    }
+    
+    .acerca-1{
+        align-items: center;
+        justify-content: end;
+        display: flex;
+        font-size: 20px;
+    }
+    
+    .btn-1{
+        padding-right: 0px;
+        font-size: small;
+        width: 90px;
     }
 
     .newscards{
@@ -229,7 +245,7 @@ footer{
     }
 
     .cards-banner-one{
-        height: 250px;
+        height: 220px;
     }
 
     .nav-main ul.nav-menu li{
@@ -286,7 +302,4 @@ footer{
         margin-top: 70px;
     }
 
-    .cards-banner-one{
-        height: 200px;
-    }
 }
