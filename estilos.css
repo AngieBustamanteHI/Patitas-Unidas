@@ -214,7 +214,7 @@ footer{
     padding-bottom: 20px;
 }
 
-@media(max-width: 750px){
+@media(max-width:1000px){
 
     .showcase{
         height: 265px;
